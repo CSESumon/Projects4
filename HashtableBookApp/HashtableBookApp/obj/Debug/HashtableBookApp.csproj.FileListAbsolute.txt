@@ -1,0 +1,6 @@
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\bin\Debug\HashtableBookApp.exe.config
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\bin\Debug\HashtableBookApp.exe
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\bin\Debug\HashtableBookApp.pdb
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\obj\Debug\HashtableBookApp.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\obj\Debug\HashtableBookApp.exe
+E:\ASP.Net\Projects\19-12-14\HashtableBookApp\HashtableBookApp\obj\Debug\HashtableBookApp.pdb
